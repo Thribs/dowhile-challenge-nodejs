@@ -1,0 +1,10 @@
+{
+  "name": "dowhile-challenge-nodejs",
+  "version": "0.0.1",
+  "description": "An attempt to broaden access to education",
+  "main": "index.js",
+  "repository": "git@github.com:ThribsClube/dowhile-challenge-nodejs.git",
+  "author": "ThribsClube <thiago@clubedochaveiro.com.br>",
+  "license": "MIT",
+  "private": false
+}
